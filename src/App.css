@@ -1,0 +1,9 @@
+*box-sizing{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    color: white;
+    background-image: url('/images/background.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
