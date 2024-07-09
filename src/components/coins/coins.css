@@ -1,0 +1,19 @@
+.coins {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    padding: 10px 20px;
+    gap: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.coins h4 {
+    background-color: #060C13;
+    color: white;
+    margin: 10;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+}

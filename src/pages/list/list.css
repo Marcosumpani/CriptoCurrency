@@ -1,0 +1,12 @@
+body {
+    background-color: #060C13;
+    background-image: none;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.list {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
