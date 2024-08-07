@@ -11,7 +11,8 @@
       "ask": "321827",
       "timestamp": "1722965694",
       "create_date": "2024-08-06 14:34:54",
-      "img":"https://www.svgrepo.com/show/53168/bitcoin-internet-money.svg"
+      "img":"https://www.svgrepo.com/show/53168/bitcoin-internet-money.svg",
+      "infoUrl": "/btc"
     },
     "USDBRL": {
       "code": "USD",

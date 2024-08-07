@@ -1,13 +1,13 @@
 import './coins.css'
 
-function Coins({image}: any) {
+function Coins({price, image}: any) {
     return (
         <>
             <div className="coins">
-                <div><img src={image} alt="" /></div>          
+                <div><img src={image} alt="" width="120px" /></div>          
                 <div className="text-coin">
-                    <h4 className="info">INFO</h4>
-                    <h4 className="price">PREÇO</h4>
+                    <a href="/btc"><button>Info</button></a>
+                    <h4 className="price">R$ {price}</h4>
                 </div>
             </div>
         </>
