@@ -1,5 +1,5 @@
 {
-    "BTCBRL": {
+    "BTC": {
       "code": "BTC",
       "codein": "BRL",
       "name": "Bitcoin",
@@ -12,9 +12,10 @@
       "timestamp": "1722965694",
       "create_date": "2024-08-06 14:34:54",
       "img":"https://www.svgrepo.com/show/53168/bitcoin-internet-money.svg",
-      "infoUrl": "/btc"
+      "infoUrl": "/btc",
+      "info" : "O Bitcoin é a primeira e mais conhecida criptomoeda descentralizada. Foi criado por uma pessoa (ou grupo) sob o pseudônimo de Satoshi Nakamoto e lançado em 2009. Utiliza tecnologia de blockchain para realizar transações seguras e transparentes sem a necessidade de intermediários como bancos. O Bitcoin tem sido valorizado principalmente como reserva de valor e meio de troca digital, com seu valor determinado pelo mercado aberto e sem controle centralizado."
     },
-    "USDBRL": {
+    "USD": {
       "code": "USD",
       "codein": "BRL",
       "name": "Dólar Americano",
@@ -27,9 +28,10 @@
       "timestamp": "1722965757",
       "create_date": "2024-08-06 14:35:57",
       "img":"https://www.svgrepo.com/show/333903/dollar-circle.svg",
-      "infoUrl": "/usd"
+      "infoUrl": "/usd",
+      "info": "A moeda oficial dos Estados Unidos e a moeda de reserva mais importante do mundo. O dólar é amplamente utilizado em comércio internacional, investimentos e transações financeiras globais. É conhecido por sua estabilidade e influência na economia global."
     },
-    "EURBRL": {
+    "EUR": {
       "code": "EUR",
       "codein": "BRL",
       "name": "Euro",
@@ -42,9 +44,10 @@
       "timestamp": "1722965730",
       "create_date": "2024-08-06 14:35:30",
       "img":"https://www.svgrepo.com/show/93939/euro.svg",
-      "infoUrl": "/eur"
+      "infoUrl": "/eur",
+      "info": "A moeda oficial da Zona do Euro, que é composta por 20 dos 27 países da União Europeia. O euro é uma das moedas mais importantes e negociadas globalmente, representando uma parte significativa da economia mundial e sendo usado como moeda de reserva em diversos países."
     },
-    "DOGEBRL": {
+    "DOGE": {
       "code": "DOGE",
       "codein": "BRL",
       "name": "Dogecoin",
@@ -57,9 +60,10 @@
       "timestamp": "1722964988",
       "create_date": "2024-08-06 14:23:08",
       "img":"https://www.svgrepo.com/show/330315/dogecoin.svg",
-      "infoUrl": "/doge"
+      "infoUrl": "/doge",
+      "info": "Inicialmente criado como uma brincadeira por Billy Markus e Jackson Palmer em 2013, o Dogecoin é uma criptomoeda que começou com a imagem de um cachorro Shiba Inu como logotipo. Apesar de seu início como uma piada, Dogecoin ganhou popularidade e é usado principalmente para gorjetas e pequenas transações online."
     },
-    "ETHBRL": {
+    "ETH": {
       "code": "ETH",
       "codein": "BRL",
       "name": "Ethereum",
@@ -72,9 +76,10 @@
       "timestamp": "1722965746",
       "create_date": "2024-08-06 14:35:46",
       "img":"https://www.svgrepo.com/show/341796/ethereum.svg",
-      "infoUrl": "/eth"
+      "infoUrl": "/eth",
+      "info": "Lançada em 2015 por Vitalik Buterin e outros desenvolvedores, Ethereum é uma plataforma descentralizada que permite a criação e execução de contratos inteligentes e aplicativos descentralizados (dApps). Sua criptomoeda nativa é o Ether, e a plataforma é conhecida por seu papel inovador na expansão das possibilidades do blockchain além de transações simples."
     },
-    "XRPBRL": {
+    "XRP": {
       "code": "XRP",
       "codein": "BRL",
       "name": "XRP",
@@ -87,9 +92,10 @@
       "timestamp": "1722965694",
       "create_date": "2024-08-06 14:34:54",
       "img":"https://www.svgrepo.com/show/367298/xrp.svg",
-      "infoUrl": "/xrp"
+      "infoUrl": "/xrp",
+      "info": "Desenvolvida pela Ripple Labs, XRP é tanto uma criptomoeda quanto um protocolo para pagamentos internacionais. A moeda é projetada para facilitar transferências rápidas e seguras entre diferentes moedas e instituições financeiras. É conhecida por sua capacidade de processar transações rapidamente em comparação com outras criptomoedas."
     },
-    "LTCBRL": {
+    "LTC": {
       "code": "LTC",
       "codein": "BRL",
       "name": "Litecoin",
@@ -102,9 +108,10 @@
       "timestamp": "1722965580",
       "create_date": "2024-08-06 14:33:00",
       "img":"https://www.svgrepo.com/show/306348/litecoin.svg",
-      "infoUrl": "/ltc"
+      "infoUrl": "/ltc",
+      "info": "Criada por Charlie Lee em 2011, o Litecoin é uma criptomoeda que se baseia no protocolo do Bitcoin, mas com algumas diferenças, como um tempo de bloqueio mais rápido e um algoritmo de hashing diferente. É frequentemente referida como 'prata' em relação ao 'ouro' do Bitcoin e é usada principalmente para pagamentos rápidos e de baixo custo."
     },
-    "JPYBRL": {
+    "JPY": {
         "code": "JPY",
         "codein": "BRL",
         "name": "Iene Japonês",
@@ -117,6 +124,7 @@
         "timestamp": "1723037860",
         "create_date": "2024-08-07 10:37:40",
         "img":"https://images.vexels.com/media/users/3/136254/isolated/preview/b7452439828fa3866906fef1c585fde6-icone-de-moeda-iene-japonesa.png",
-        "infoUrl": "/jpy"
+        "infoUrl": "/jpy",
+        "info": "A moeda oficial do Japão, simbolizada por ¥. É uma das moedas mais negociadas no mercado de câmbio global e é conhecida pela sua estabilidade e uso em transações internacionais. O iene é amplamente utilizado em finanças e é um ativo de reserva global."
       }
   }

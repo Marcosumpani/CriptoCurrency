@@ -16,7 +16,6 @@ function List() {
                         key={item.code}
                         image={item.img}
                         price={item.high}
-                        url={item.infoUrl}
                         name={item.name}
                     />
                 ))}     
