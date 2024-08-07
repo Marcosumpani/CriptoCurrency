@@ -2,7 +2,7 @@
     "BTCBRL": {
       "code": "BTC",
       "codein": "BRL",
-      "name": "Bitcoin/Real Brasileiro",
+      "name": "Bitcoin",
       "high": "325748",
       "low": "304797",
       "varBid": "6071",
@@ -17,7 +17,7 @@
     "USDBRL": {
       "code": "USD",
       "codein": "BRL",
-      "name": "Dólar Americano/Real Brasileiro",
+      "name": "Dólar Americano",
       "high": "5.7253",
       "low": "5.632",
       "varBid": "-0.0811",
@@ -26,12 +26,13 @@
       "ask": "5.6434",
       "timestamp": "1722965757",
       "create_date": "2024-08-06 14:35:57",
-      "img":"https://www.svgrepo.com/show/333903/dollar-circle.svg"
+      "img":"https://www.svgrepo.com/show/333903/dollar-circle.svg",
+      "infoUrl": "/usd"
     },
     "EURBRL": {
       "code": "EUR",
       "codein": "BRL",
-      "name": "Euro/Real Brasileiro",
+      "name": "Euro",
       "high": "6.2908",
       "low": "6.1542",
       "varBid": "-0.1274",
@@ -40,12 +41,13 @@
       "ask": "6.1674",
       "timestamp": "1722965730",
       "create_date": "2024-08-06 14:35:30",
-      "img":"https://www.svgrepo.com/show/93939/euro.svg"
+      "img":"https://www.svgrepo.com/show/93939/euro.svg",
+      "infoUrl": "/eur"
     },
     "DOGEBRL": {
       "code": "DOGE",
       "codein": "BRL",
-      "name": "Dogecoin/Real Brasileiro",
+      "name": "Dogecoin",
       "high": "0.5767",
       "low": "0.5323",
       "varBid": "0.0024",
@@ -54,12 +56,13 @@
       "ask": "0.5539",
       "timestamp": "1722964988",
       "create_date": "2024-08-06 14:23:08",
-      "img":"https://www.svgrepo.com/show/330315/dogecoin.svg"
+      "img":"https://www.svgrepo.com/show/330315/dogecoin.svg",
+      "infoUrl": "/doge"
     },
     "ETHBRL": {
       "code": "ETH",
       "codein": "BRL",
-      "name": "Ethereum/Real Brasileiro",
+      "name": "Ethereum",
       "high": "14754.86",
       "low": "13685.64",
       "varBid": "60.78",
@@ -68,12 +71,13 @@
       "ask": "14311.38",
       "timestamp": "1722965746",
       "create_date": "2024-08-06 14:35:46",
-      "img":"https://www.svgrepo.com/show/341796/ethereum.svg"
+      "img":"https://www.svgrepo.com/show/341796/ethereum.svg",
+      "infoUrl": "/eth"
     },
     "XRPBRL": {
       "code": "XRP",
       "codein": "BRL",
-      "name": "XRP/Real Brasileiro",
+      "name": "XRP",
       "high": "3",
       "low": "2.74",
       "varBid": "0.09",
@@ -82,12 +86,13 @@
       "ask": "2.92",
       "timestamp": "1722965694",
       "create_date": "2024-08-06 14:34:54",
-      "img":"https://www.svgrepo.com/show/367298/xrp.svg"
+      "img":"https://www.svgrepo.com/show/367298/xrp.svg",
+      "infoUrl": "/xrp"
     },
     "LTCBRL": {
       "code": "LTC",
       "codein": "BRL",
-      "name": "Litecoin/Real Brasileiro",
+      "name": "Litecoin",
       "high": "341.71",
       "low": "318.37",
       "varBid": "5.49",
@@ -96,12 +101,13 @@
       "ask": "334.36",
       "timestamp": "1722965580",
       "create_date": "2024-08-06 14:33:00",
-      "img":"https://www.svgrepo.com/show/306348/litecoin.svg"
+      "img":"https://www.svgrepo.com/show/306348/litecoin.svg",
+      "infoUrl": "/ltc"
     },
     "JPYBRL": {
         "code": "JPY",
         "codein": "BRL",
-        "name": "Iene Japonês/Real Brasileiro",
+        "name": "Iene Japonês",
         "high": "0.03923",
         "low": "0.03807",
         "varBid": "-0.0011",
@@ -110,6 +116,7 @@
         "ask": "0.03815",
         "timestamp": "1723037860",
         "create_date": "2024-08-07 10:37:40",
-        "img":"https://images.vexels.com/media/users/3/136254/isolated/preview/b7452439828fa3866906fef1c585fde6-icone-de-moeda-iene-japonesa.png"
+        "img":"https://images.vexels.com/media/users/3/136254/isolated/preview/b7452439828fa3866906fef1c585fde6-icone-de-moeda-iene-japonesa.png",
+        "infoUrl": "/jpy"
       }
   }

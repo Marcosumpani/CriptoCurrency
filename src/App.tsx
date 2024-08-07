@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" Component={Home} />
         <Route path="/list" Component={List} />
+        <Route path="/info:nome" />
       </Routes>
     </BrowserRouter>
   )
